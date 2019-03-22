@@ -404,7 +404,11 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://gitlab.s.upyun.com" />
-          <option name="userName" value="lijian.chen@upai.com" />
+          <option name="userName" value="lijian.chen" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.s.upyun.com/mingming.ye/shangzhiboAndroid.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
