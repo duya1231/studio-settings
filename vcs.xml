@@ -398,6 +398,14 @@
           <option name="url" value="https://github.com/YJwbp/TraceRoute.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.s.upyun.com/mingming.ye/shangzhiboAndroid" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.s.upyun.com" />
+          <option name="userName" value="lijian.chen@upai.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub" />
