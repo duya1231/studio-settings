@@ -422,8 +422,24 @@
           <option name="url" value="https://github.com/google/google-authenticator-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.s.upyun.com/apps/strongswan" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.s.upyun.com/apps/strongswan/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.s.upyun.com/apps/strongswan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.s.upyun.com:18022/apps/strongswan.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\UPProject" />
   </component>
 </application>
