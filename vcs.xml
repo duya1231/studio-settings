@@ -438,8 +438,12 @@
           <option name="url" value="ssh://git@gitlab.s.upyun.com:18022/apps/strongswan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AnJiaoDe/BaseDialog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\UPProject" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub" />
   </component>
 </application>
