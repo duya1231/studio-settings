@@ -446,8 +446,16 @@
           <option name="url" value="https://github.com/wangdan/AisenWeiBo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aa112901/remusic.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/git-xuhao/KotlinMvp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\copy" />
   </component>
 </application>
