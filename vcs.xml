@@ -470,8 +470,12 @@
           <option name="url" value="https://github.com/lytsing/weibo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wenmingvs/WeiBo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\copy" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\copy\wenmingvs" />
   </component>
 </application>
