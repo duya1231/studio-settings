@@ -482,8 +482,16 @@
           <option name="url" value="https://github.com/ChadCSong/ShineButton.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jaakkopasanen/AutoEq/tree/master/results" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jaakkopasanen/AutoEq.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\copy\view" />
+    <option name="cloneParentDir" value="E:\Project" />
   </component>
 </application>
