@@ -490,8 +490,12 @@
           <option name="url" value="https://github.com/jaakkopasanen/AutoEq.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/razerdp/FriendCircle" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\Project" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\copy\wechat" />
   </component>
 </application>
