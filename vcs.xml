@@ -522,8 +522,12 @@
           <option name="url" value="https://github.com/baishixian/Share2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BrainBear/LatinIME.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub\Views" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub\input" />
   </component>
 </application>
