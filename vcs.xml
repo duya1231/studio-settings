@@ -562,8 +562,16 @@
           <option name="url" value="https://github.com/zyyoona7/WheelPicker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.s.upyun.com/android/Huaban_Android" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gitlab.s.upyun.com:18022/android/Huaban_Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub\Views" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\huaban" />
   </component>
 </application>
