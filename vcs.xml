@@ -598,9 +598,13 @@
           <option name="url" value="https://github.com/Mr-Zheng-yz/X5WebViewDemo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/darryrzhong/Android-MvvmComponent-App.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub\webview" />
+    <option name="cloneParentDir" value="D:\Android\Architecture-Components" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
