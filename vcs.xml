@@ -614,9 +614,13 @@
           <option name="url" value="https://gitlab.s.upyun.com/apps/flyfish" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ditclear/PaoNet.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\StudioProject\UPProject" />
+    <option name="cloneParentDir" value="D:\Android\Architecture-Components" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
