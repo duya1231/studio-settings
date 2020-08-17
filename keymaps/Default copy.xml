@@ -6,6 +6,12 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
