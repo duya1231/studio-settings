@@ -650,9 +650,13 @@
           <option name="url" value="https://github.com/material-components/material-components-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/li-xiaojun/XPopup.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android\Architecture-Components" />
+    <option name="cloneParentDir" value="D:\Android\StudioProject\GitHub\Views" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
